@@ -20,3 +20,8 @@ h1 {
     padding: 10px;
     border-bottom: 5px solid #5f4937;
 }
+.container {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+}
